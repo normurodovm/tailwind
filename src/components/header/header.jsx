@@ -6,7 +6,7 @@ import Headerlogo from '../header/header-logo.svg'
 import headerimg from '../header/header-img.png'
 export const Header = (icon,img) => {
 
-   return <div className="header"> <div className=" header bg-white">
+   return <div className="header mb-[30px]"> <div className=" pb-[20px] header bg-white">
    <div className="container mx-auto px-[20px] max-w-[1270px]">
         <div className="flex gap-[100px] justify-end pt-[10px] pb-[8px]">
             <div className="flex gap-[10px]">
